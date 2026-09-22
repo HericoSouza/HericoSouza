@@ -167,13 +167,19 @@ Projeto de jogo desenvolvido em **Python**, utilizado para aplicar conceitos de 
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HericoSouza&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=HericoSouza&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"
+  height="180"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericoSouza&layout=compact&langs_count=8&theme=transparent"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericoSouza&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  height="180"
+/>
 
 </div>
 
@@ -183,10 +189,12 @@ Projeto de jogo desenvolvido em **Python**, utilizado para aplicar conceitos de 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HericoSouza&theme=flat&no-frame=true&no-bg=true&margin-w=8"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=HericoSouza&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+  width="90%"
+/>
 
 </div>
-
 ---
 
 ## 📈 Atividade
