@@ -167,37 +167,6 @@ Jogo desenvolvido em **Python** como projeto de aprendizado, utilizando programa
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=HericoSouza&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HericoSouza&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-  height="180"
-/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=HericoSouza&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-  width="90%"
-/>
-
-</div>
-
----
-
 ## 🎓 Formação
 
 **Universidade Federal do Rio Grande do Norte — UFRN**  
