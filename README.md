@@ -52,6 +52,8 @@ Também possuo experiência profissional em **organização, coordenação e sup
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-learn"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pytorch/pytorch-original.svg" width="45" title="Pytorch"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" title="Vue.js"/>
 
 </p>
