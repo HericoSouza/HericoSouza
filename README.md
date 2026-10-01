@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN)**, atualmente no 5º período.
+Sou estudante de **Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN)**, atualmente no 6º período.
 
 Tenho interesse em **desenvolvimento de software, backend, estruturas de dados, bancos de dados e inteligência artificial**.
 
