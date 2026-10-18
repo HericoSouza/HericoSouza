@@ -133,7 +133,7 @@ Jogo desenvolvido em **Python** como projeto de aprendizado, utilizando programa
 
 `Python` `POO` `Game Logic`
 
-🔗 **Projeto disponível no meu GitHub**
+[🔗 Ver projeto](https://github.com/HericoSouza/Medieval_Fightin)
 
 </td>
 
