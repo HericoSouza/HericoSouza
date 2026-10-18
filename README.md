@@ -113,11 +113,11 @@ Sistema bancário desenvolvido em **C++**, aplicando conceitos de programação 
 
 ### 💉 Sistema de Gestão de Vacinação
 
-Projeto de banco de dados desenvolvido para gerenciamento de informações relacionadas à vacinação.
+Projeto de banco de dados voltado à organização de informações sobre pacientes, unidades de atendimento, profissionais, vacinas e campanhas de vacinação.
 
 **Tecnologias**
 
-`SQL` `Banco de Dados`
+`SQL` `PostgreSQL` `Modelagem de Dados`
 
 [🔗 Ver projeto](https://github.com/HericoSouza/sistema-gest-o-vacinas)
 
@@ -127,7 +127,7 @@ Projeto de banco de dados desenvolvido para gerenciamento de informações relac
 
 ### 🎮 Medieval Fightin'
 
-Jogo desenvolvido em **Python** como projeto de aprendizado, utilizando programação orientada a objetos e sistemas de combate.
+RPG de combate por turnos desenvolvido em **Python** como projeto de aprendizado, explorando orientação a objetos, lógica de combate, progressão de personagens e gerenciamento de recursos.
 
 **Tecnologias**
 
@@ -138,9 +138,39 @@ Jogo desenvolvido em **Python** como projeto de aprendizado, utilizando programa
 </td>
 
 </tr>
-</table>
 
----
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfólio HIoT
+
+Portfólio acadêmico colaborativo com experimentos de Internet das Coisas, envolvendo ESP32, sensores, leitura de sinais analógicos e controle de LEDs por PWM.
+
+**Tecnologias**
+
+`C++` `ESP32` `IoT` `Sistemas Embarcados`
+
+[🔗 Ver projeto](https://github.com/HericoSouza/Portifolio-HIoT)
+
+</td>
+
+<td width="50%">
+
+### 🏋️ Sistema de Gestão de Exercícios
+
+Sistema desenvolvido em **C++**, com organização em diferentes classes e arquivos para representar exercícios, fichas e histórico de atividades físicas.
+
+**Tecnologias**
+
+`C++` `POO` `Modularização`
+
+[🔗 Ver projeto](https://github.com/HericoSouza/exercicios-final-lp1)
+
+</td>
+
+</tr>
+</table>
 
 ## 📚 Atualmente estudando
 
